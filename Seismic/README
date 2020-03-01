@@ -1,14 +1,3 @@
-# how to make pygimli work:
-###########################
-- installation on linux following the pygimli web page instructions (includes creation of environment mypegenv):
-  conda create -n mypgenv -c gimli -c conda-forge pygimli python=3.6 -y
-- start the environment under which pygimli was installed. On ubuntu149, mypgenv.
-  This is started by typing:
-  source mypegenv activate
-- start the anaconda navigaotr:
-  anaconda-navigator
-- verify that the mypgenv is activated in the navigator drop-down. 
-- select jupyter notebook and open the notebook where pygimli islibraries are imported and used (e.g. plot_5_houghall.ipynb)
 ###############################
 # inversion of refraction data
 ###############################
