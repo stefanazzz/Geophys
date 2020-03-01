@@ -1,1 +1,19 @@
 the following environment.yml file caused error and does not allow a proper image to start:
+####
+
+channels:
+- conda-forge
+- gimli
+- defaults
+dependencies:
+- boost=1.64.0=py36_4
+- pygimli
+- seaborn
+
+###
+error (after may packeage inconsitenceis warnings):
+.....
+The command '/bin/sh -c conda env update -p ${NB_PYTHON_PREFIX} -f "environment.yml" 
+&& conda clean --all -f -y && conda list -p ${NB_PYTHON_PREFIX}' returned a non-zero code: 1
+The command '/bin/sh -c conda env update -p ${NB_PYTHON_PREFIX} -f "environment.yml" 
+&& conda clean --all -f -y && conda list -p ${NB_PYTHON_PREFIX}' returned a non-zero code: 1
