@@ -1,0 +1,8 @@
+channels:
+- conda-forge
+- gimli
+- defaults
+dependencies:
+- boost=1.64.0=py36_4
+- pygimli
+- seaborn
