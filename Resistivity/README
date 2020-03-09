@@ -1,1 +1,4 @@
-examples of forward and iverse reistivity
+Examples of forward and inverse reistivity.
+plot_3_dc : 1D Wenner data simulation and synthetic inversion
+plot_2D_Res_Houghall2020 : inverts tigre data from fieldwork in Houghall, March 2020
+plot_2D_Resistivity_SyntheticModellingAndInversion : example of model design, simulation and synth. inversion
