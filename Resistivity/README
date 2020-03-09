@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefanazzz/Geophys/master)
+
 Examples of forward and inverse reistivity.
 plot_3_dc : 1D Wenner data simulation and synthetic inversion
 plot_2D_Res_Houghall2020 : inverts tigre data from fieldwork in Houghall, March 2020
